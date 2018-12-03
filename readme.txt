@@ -1,2 +1,1 @@
-My name is Joe
-I want to learn git
+My name is Joe,I want to learn git
